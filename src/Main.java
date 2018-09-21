@@ -1,9 +1,5 @@
 import java.util.*;
 
-/* consulted stackoverflow,
-   geeksforgeeks, and w3schools
-*/
-
 
 public class Main {
 
